@@ -7,3 +7,6 @@
    - reinforcement learning - UCL [David Silver: 2015](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
    - CS224d: Deep Learning for Natural Language Processing [Stanford - 2017](http://cs224d.stanford.edu/)
    
+
+## Tutorials
+  - [Kaggle Data Science Bowl 2017](https://www.kaggle.com/c/second-annual-data-science-bowl)
