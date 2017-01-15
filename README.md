@@ -10,3 +10,13 @@
 
 ## Tutorials
   - [Kaggle Data Science Bowl 2017](https://www.kaggle.com/c/second-annual-data-science-bowl)
+
+
+## Books
+  - [Reinforcement Learning - Barto and Sutton 2017](http://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
+  
+
+# Resources
+  - [David Silver webpage](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Resources.html)
+  -[collection of deep learning resources by Jeremy Jackson](http://www.jeremydjacksonphd.com/category/deep-learning/)
+  
