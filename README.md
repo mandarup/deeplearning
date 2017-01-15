@@ -15,6 +15,10 @@
 ## Books
   - [Reinforcement Learning - Barto and Sutton 2017](http://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
   
+  
+## Research Papers
+  - [InfoGan](https://arxiv.org/abs/1606.03657)
+  
 
 # Resources
   - [David Silver webpage](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Resources.html)
