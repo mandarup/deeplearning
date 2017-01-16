@@ -8,6 +8,7 @@
    - CS224d: Deep Learning for Natural Language Processing [Stanford - 2017](http://cs224d.stanford.edu/)
    - [Yoshua Benjio](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
    - [UvAmsterdam](http://uvadlc.github.io/)
+   - [MIT Self-Driving Cars - Lex Fridman](http://cars.mit.edu)
    
    
 ## Summer School
