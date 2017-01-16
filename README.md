@@ -6,6 +6,12 @@
    - machine learning - Oxford [Nando de Freitas:2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
    - reinforcement learning - UCL [David Silver: 2015](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
    - CS224d: Deep Learning for Natural Language Processing [Stanford - 2017](http://cs224d.stanford.edu/)
+   - [Yoshua Benjio](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
+   - [UvAmsterdam](http://uvadlc.github.io/)
+   
+   
+## Summer School
+   - [Montreal2016](http://videolectures.net/deeplearning2016_montreal/)
    
 
 ## Tutorials
