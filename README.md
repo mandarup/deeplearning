@@ -24,3 +24,6 @@
   - [David Silver webpage](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Resources.html)
   - [collection of deep learning resources by Jeremy Jackson](http://www.jeremydjacksonphd.com/category/deep-learning/)
   
+# Blogs
+  - [wildml](http://www.wildml.com)
+  - [fastml]()
