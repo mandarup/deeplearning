@@ -9,6 +9,7 @@
    - [Yoshua Benjio](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
    - [UvAmsterdam](http://uvadlc.github.io/)
    - [MIT Self-Driving Cars - Lex Fridman - mit6.s094](http://cars.mit.edu)
+   - list of RL courses [link](http://ai.berkeley.edu/more_courses_other_schools.html)
    
    
 ## Summer School
