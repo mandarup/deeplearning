@@ -2,13 +2,14 @@
 # Machine Learning
 ## University courses
    - CS 294: Deep Reinforcement Learning, Spring 2017 [Berkeley 2017](http://rll.berkeley.edu/deeprlcourse/)
+   - [Deep RL CMU 2017](https://www.cs.cmu.edu/~katef/DeepRLControlCourse/index.html#related%20materials)
    - CNNs - Stanford [Karpathy CS231n](http://cs231n.github.io/)
    - machine learning - Oxford [Nando de Freitas:2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
    - reinforcement learning - UCL [David Silver: 2015](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
    - CS224d: Deep Learning for Natural Language Processing [Stanford - 2017](http://cs224d.stanford.edu/)
    - [Yoshua Benjio](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
    - [UvAmsterdam](http://uvadlc.github.io/)
-   - [MIT Self-Driving Cars - Lex Fridman - mit6.s094](http://cars.mit.edu)
+   - [MIT Self-Driving Cars - Lex Fridman - mit6.s094 2017](http://cars.mit.edu)
    - list of RL courses [link](http://ai.berkeley.edu/more_courses_other_schools.html)
    
    
