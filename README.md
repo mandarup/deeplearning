@@ -38,6 +38,7 @@
 # Resources
   - [David Silver webpage](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Resources.html)
   - [collection of deep learning resources by Jeremy Jackson](http://www.jeremydjacksonphd.com/category/deep-learning/)
+  - [AndreNg Thesis](http://rll.berkeley.edu/deeprlcourse/docs/ng-thesis.pdf)
   
 # Blogs
   - [wildml](http://www.wildml.com)
