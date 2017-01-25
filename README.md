@@ -3,11 +3,11 @@
 ## University courses
 
 **with lecture videos**
-   - Deep RL [Spring 2017, CS 294 Berkeley](http://rll.berkeley.edu/deeprlcourse/)
-   - CNNs - Stanford [Karpathy CS231n](http://cs231n.github.io/)
+   - [Deep RL - CS 294 - Spring 2017 - -Berkeley](http://rll.berkeley.edu/deeprlcourse/)
+   - [CNNs - CS231n - Stanford - Karpathy  - 2016](http://cs231n.github.io/)
    - machine learning - Oxford [Nando de Freitas:2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
    - RL, UCL [David Silver: 2015](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
-   - [Yoshua Benjio](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
+   - [DL - Yoshua Benjio](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
    - [UvAmsterdam](http://uvadlc.github.io/)
    - [MIT Self-Driving Cars - Lex Fridman - mit6.s094 2017](http://cars.mit.edu)
 
@@ -15,6 +15,7 @@
 **No lecture videos**
    - Deep RL [Spring 2017, CMU ](https://www.cs.cmu.edu/~katef/DeepRLControlCourse/index.html#related%20materials)
    - DL-NLP [CS224d Stanford - 2017](http://cs224d.stanford.edu/)
+   - [CS20SI Tensorflow for DL Reserch - Stanford -2017](http://web.stanford.edu/class/cs20si/syllabus.html)
    
 **catalogue**
    - list of RL courses [link](http://ai.berkeley.edu/more_courses_other_schools.html)
