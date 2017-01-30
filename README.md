@@ -32,10 +32,12 @@
 
 ## Books
   - [Reinforcement Learning - Barto and Sutton 2017](http://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
+  - [Deep Learning - GoodFello et.al.](www.deeplearningbook.org)
   
   
 ## Research Papers
   - [InfoGan](https://arxiv.org/abs/1606.03657)
+  - [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
   
 
 # Resources
