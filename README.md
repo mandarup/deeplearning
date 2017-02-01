@@ -10,6 +10,8 @@
    - [DL - Yoshua Benjio](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
    - [UvAmsterdam](http://uvadlc.github.io/)
    - [MIT Self-Driving Cars - Lex Fridman - mit6.s094 2017](http://cars.mit.edu)
+   - [DL - 2015 - Nando Freitas - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+   - [ML - 2013 - Nando Freitas - UBC](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 
 
 **No lecture videos**
