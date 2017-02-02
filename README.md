@@ -30,6 +30,7 @@
 
 ## Tutorials
   - [Kaggle Data Science Bowl 2017](https://www.kaggle.com/c/second-annual-data-science-bowl)
+  - [Udacity - Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.voidhar6s)
 
 
 ## Books
