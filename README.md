@@ -28,10 +28,10 @@
    - [Montreal2016](http://videolectures.net/deeplearning2016_montreal/)
    
 
-## Tutorials
+## Tutorials/Blogs
   - [Kaggle Data Science Bowl 2017](https://www.kaggle.com/c/second-annual-data-science-bowl)
   - [Udacity - Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.voidhar6s)
-
+  - [GAN in 50 lines of code](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.2bbvkxpbr)
 
 ## Books
   - [Reinforcement Learning - Barto and Sutton 2017](http://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
