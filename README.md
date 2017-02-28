@@ -50,8 +50,9 @@
   
 # Blogs
   - [wildml](http://www.wildml.com)
-  - [fastml]()
+  - [fastml](http://www.fastml.com)
   - [graphific](http://graphific.github.io/posts/running-a-deep-learning-dream-machine/)
+  - [kalman-filter-in-pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 # Projects
   - [Robot that sees under $100](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
