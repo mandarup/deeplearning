@@ -22,11 +22,9 @@
 **catalogue**
    - list of RL courses [link](http://ai.berkeley.edu/more_courses_other_schools.html)
    
-   
-   
-## Summer School
+## Summer School/ short series
    - [Montreal2016](http://videolectures.net/deeplearning2016_montreal/)
-   
+   - [fast.ai MOOC](http://course.fast.ai/lessons/lessons.html)
 
 ## Tutorials/Blogs
   - [Kaggle Data Science Bowl 2017](https://www.kaggle.com/c/second-annual-data-science-bowl)
