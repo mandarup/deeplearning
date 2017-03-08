@@ -19,6 +19,9 @@
    - DL-NLP [CS224d Stanford - 2017](http://cs224d.stanford.edu/)
    - [CS20SI Tensorflow for DL Reserch - Stanford -2017](http://web.stanford.edu/class/cs20si/syllabus.html)
    
+**Robotics**
+   - [Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/)
+   
 **catalogue**
    - list of RL courses [link](http://ai.berkeley.edu/more_courses_other_schools.html)
    
