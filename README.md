@@ -28,6 +28,14 @@
 ## Summer School/ short series
    - [Montreal2016](http://videolectures.net/deeplearning2016_montreal/)
    - [fast.ai MOOC](http://course.fast.ai/lessons/lessons.html)
+   
+## Research Papers
+  - [InfoGan](https://arxiv.org/abs/1606.03657)
+  - [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
+  
+  **tutorials**
+  - [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285v1.pdf)
+  
 
 ## Tutorials/Blogs
   - [Kaggle Data Science Bowl 2017](https://www.kaggle.com/c/second-annual-data-science-bowl)
@@ -39,11 +47,6 @@
   - [Deep Learning - GoodFello et.al.](www.deeplearningbook.org)
   
   
-## Research Papers
-  - [InfoGan](https://arxiv.org/abs/1606.03657)
-  - [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
-  
-
 # Resources
   - [David Silver webpage](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Resources.html)
   - [collection of deep learning resources by Jeremy Jackson](http://www.jeremydjacksonphd.com/category/deep-learning/)
