@@ -24,6 +24,7 @@
    
 **catalogue**
    - list of RL courses [link](http://ai.berkeley.edu/more_courses_other_schools.html)
+   - well orgnized resource list deeplearning4j [link](https://deeplearning4j.org/deeplearningforbeginners.html)
    
 ## Summer School/ short series
    - [Montreal2016](http://videolectures.net/deeplearning2016_montreal/)
