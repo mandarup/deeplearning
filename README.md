@@ -3,6 +3,7 @@
 ## University courses
 
 **with lecture videos**
+   - [Oxford Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017/lectures)
    - [Deep RL - CS 294 - Spring 2017 - -Berkeley](http://rll.berkeley.edu/deeprlcourse/)
    - [CNNs - CS231n - Stanford - Karpathy  - 2016](http://cs231n.github.io/)
    - machine learning - Oxford [Nando de Freitas:2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
@@ -23,6 +24,7 @@
    - [Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/)
    
 **catalogue**
+   - list of deep learning courses [link](http://www.jeremydjacksonphd.com/category/deep-learning/)
    - list of RL courses [link](http://ai.berkeley.edu/more_courses_other_schools.html)
    - well orgnized resource list deeplearning4j [link](https://deeplearning4j.org/deeplearningforbeginners.html)
    
