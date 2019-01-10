@@ -48,6 +48,7 @@
 ## Books
   - [Reinforcement Learning - Barto and Sutton 2017](http://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
   - [Deep Learning - GoodFello et.al.](www.deeplearningbook.org)
+  - [A Course in Machine Learning by Hal Daumé III](http://ciml.info/)
   
   
 # Resources
