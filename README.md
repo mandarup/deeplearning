@@ -31,6 +31,7 @@
 ## Summer School/ short series
    - [Montreal2016](http://videolectures.net/deeplearning2016_montreal/)
    - [fast.ai MOOC](http://course.fast.ai/lessons/lessons.html)
+   - [FullStack Deep Learning](https://fullstackdeeplearning.com/march2019#)
    
 ## Research Papers
   - [InfoGan](https://arxiv.org/abs/1606.03657)
