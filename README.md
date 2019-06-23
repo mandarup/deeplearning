@@ -2,6 +2,7 @@
 # Machine Learning
 ## University courses
 
+### General ML/DL
 **with lecture videos**
    - [Oxford Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017/lectures)
    - [Deep RL - CS 294 - Spring 2017 - -Berkeley](http://rll.berkeley.edu/deeprlcourse/)
@@ -14,11 +15,17 @@
    - [DL - 2015 - Nando Freitas - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
    - [ML - 2013 - Nando Freitas - UBC](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 
-
-**No lecture videos**
+** No lecture videos**
    - Deep RL [Spring 2017, CMU ](https://www.cs.cmu.edu/~katef/DeepRLControlCourse/index.html#related%20materials)
    - DL-NLP [CS224d Stanford - 2017](http://cs224d.stanford.edu/)
    - [CS20SI Tensorflow for DL Reserch - Stanford -2017](http://web.stanford.edu/class/cs20si/syllabus.html)
+   
+### NLP
+   **with lecture videos**
+   - Chris Manning, Stanford [CS224n](http://web.stanford.edu/class/cs224n/)
+   
+   ** No lecture videos**
+   -  Dan Jurafsky and James H. Martin, Stanford [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)   
    
 **Robotics**
    - [Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/)
@@ -50,6 +57,7 @@
   - [Reinforcement Learning - Barto and Sutton 2017](http://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
   - [Deep Learning - GoodFello et.al.](www.deeplearningbook.org)
   - [A Course in Machine Learning by Hal Daumé III](http://ciml.info/)
+  - [Speech And Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
   
   
 # Resources
