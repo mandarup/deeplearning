@@ -16,15 +16,17 @@
    - [ML - 2013 - Nando Freitas - UBC](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 
 ** No lecture videos**
+
    - Deep RL [Spring 2017, CMU ](https://www.cs.cmu.edu/~katef/DeepRLControlCourse/index.html#related%20materials)
    - DL-NLP [CS224d Stanford - 2017](http://cs224d.stanford.edu/)
    - [CS20SI Tensorflow for DL Reserch - Stanford -2017](http://web.stanford.edu/class/cs20si/syllabus.html)
    
 ### NLP
-   **with lecture videos**
+**with lecture videos**
    - Chris Manning, Stanford [CS224n](http://web.stanford.edu/class/cs224n/)
    
-   ** No lecture videos**
+** No lecture videos**
+
    -  Dan Jurafsky and James H. Martin, Stanford [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)   
    
 **Robotics**
