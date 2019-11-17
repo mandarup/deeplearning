@@ -25,7 +25,7 @@
 **with lecture videos**
    - Chris Manning, Stanford [CS224n](http://web.stanford.edu/class/cs224n/)
    
-** No lecture videos**
+**No lecture videos**
 
    -  Dan Jurafsky and James H. Martin, Stanford [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)   
    
@@ -63,6 +63,7 @@
   
   
 # Resources
+  - [Comprehensive Deep Learning Notes](http://d2l.ai)
   - [David Silver webpage](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Resources.html)
   - [collection of deep learning resources by Jeremy Jackson](http://www.jeremydjacksonphd.com/category/deep-learning/)
   - [AndreNg Thesis](http://rll.berkeley.edu/deeprlcourse/docs/ng-thesis.pdf)
