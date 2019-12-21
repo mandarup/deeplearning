@@ -4,6 +4,7 @@
 
 ### General ML/DL
 **with lecture videos**
+   - [Intro to DL - CMU](http://deeplearning.cs.cmu.edu/)
    - [Oxford Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017/lectures)
    - [Deep RL - CS 294 - Spring 2017 - -Berkeley](http://rll.berkeley.edu/deeprlcourse/)
    - [CNNs - CS231n - Stanford - Karpathy  - 2016](http://cs231n.github.io/)
