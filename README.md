@@ -33,7 +33,12 @@
    - Algorithms for NLP [CMU CS 11711, Fall 2018](http://demo.clab.cs.cmu.edu/11711fa18/)
    
 **Robotics**
+
    - [Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/)
+   
+**Resources for DL Application**
+ 
+   - [Google Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml)
    
 **catalogue**
    - list of deep learning courses [link](http://www.jeremydjacksonphd.com/category/deep-learning/)
