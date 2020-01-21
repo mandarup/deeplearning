@@ -4,6 +4,7 @@
 
 ### General ML/DL
 **with lecture videos**
+ 
    - [Intro to DL - CMU](http://deeplearning.cs.cmu.edu/)
    - [Oxford Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017/lectures)
    - [Deep RL - CS 294 - Spring 2017 - -Berkeley](http://rll.berkeley.edu/deeprlcourse/)
@@ -15,6 +16,8 @@
    - [MIT Self-Driving Cars - Lex Fridman - mit6.s094 2017](http://cars.mit.edu)
    - [DL - 2015 - Nando Freitas - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
    - [ML - 2013 - Nando Freitas - UBC](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
+   - [(Spring 2019/2020) CS 128/282 Berkeley : Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831) Available on youtube, search "CS182/281"
+  
 
 ** No lecture videos**
 
