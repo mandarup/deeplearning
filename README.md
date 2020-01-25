@@ -16,7 +16,9 @@
    - [MIT Self-Driving Cars - Lex Fridman - mit6.s094 2017](http://cars.mit.edu)
    - [DL - 2015 - Nando Freitas - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
    - [ML - 2013 - Nando Freitas - UBC](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
-   - [(Spring 2019/2020) CS 128/282 Berkeley : Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831) Available on youtube, search "CS182/281"
+   - CS 128/282 Berkeley : Designing, Visualizing and Understanding Deep Neural Networks
+      - [Spring 2019](https://bcourses.berkeley.edu/courses/1478831) Available on youtube, search "CS182/281"
+      - [Spring 2020](https://bcourses.berkeley.edu/courses/1487769/pages)
   
 
 ** No lecture videos**
